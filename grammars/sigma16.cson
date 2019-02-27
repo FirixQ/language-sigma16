@@ -1,0 +1,22 @@
+'scopeName': 'source.sigma16'
+'name': 'Sigma16'
+'fileTypes': ['.sigma16']
+
+'patterns': [
+  {
+    'match': '\\b(([0-9]+\\.?[0-9]*)|(\\.[0-9]+))\\b'
+    'name': 'constant.numeric.sigma16'
+  },
+  {
+    'match': ';.+'
+    'name': 'comment.line.semi-colon.sigma16'
+  },
+  {
+    'match': 'add|sub|mul|div|cmplt|cmpeq|cmpgt|inv|and|or|xor|shiftl|shiftr|trap|lea|load|store|jump|jumpf|jumpt|jumpc|jal|data'
+    'name': 'keyword.control.sigma16'
+  },
+  {
+    'match': 'R[0-9][1-5]?';
+    'name': 'keyword.constant.sigma16'
+  }
+]
