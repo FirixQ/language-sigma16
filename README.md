@@ -2,4 +2,4 @@
 Sigma16 Syntax Highlighting for Atom
 
 ## Example
-!(http://i.imgur.com/JKJVJ74.png)
+![An image demonstrating the package working](http://i.imgur.com/JKJVJ74.png "Example Image")
