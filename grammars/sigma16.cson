@@ -1,6 +1,6 @@
 'scopeName': 'source.sigma16'
 'name': 'Sigma16'
-'fileTypes': ['.sigma16']
+'fileTypes': ['sigma16','asm']
 
 'patterns': [
   {
