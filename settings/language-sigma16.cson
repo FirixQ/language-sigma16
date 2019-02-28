@@ -1,0 +1,5 @@
+'.source.sigma16':
+  'editor':
+    'commentStart': ';'
+    'softTabs': true
+    'tabLength': 4
