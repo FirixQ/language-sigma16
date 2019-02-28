@@ -8,7 +8,7 @@
     'name': 'constant.numeric.sigma16'
   },
   {
-    'match': ';.+'
+    'match': ';.*'
     'name': 'comment.line.semi-colon.sigma16'
   },
   {
@@ -16,7 +16,7 @@
     'name': 'keyword.control.sigma16'
   },
   {
-    'match': 'R[0-9][1-5]?';
+    'match': 'R[0-9][0-5]?';
     'name': 'keyword.constant.sigma16'
   }
 ]
