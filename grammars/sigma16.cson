@@ -12,7 +12,7 @@
     'name': 'comment.line.semi-colon.sigma16'
   },
   {
-    'match': '\\s(add|sub|mul|div|cmp|cmplt|cmpeq|cmpgt|inv|and|or|xor|shiftl|shiftr|trap|lea|load|store|jump|jumpf|jumpt|jumpc|jal|jumpgt|jumplt|jumpeq|data)\\s'
+    'match': '\\s(add|sub|mul|div|cmp|cmplt|cmpeq|cmpgt|inv|and|or|xor|shiftl|shiftr|trap|lea|load|store|jump|jumpf|jumpt|jumpc|jal|jumpgt|jumplt|jumpeq|jumple|jumpge|data)\\s'
     'name': 'keyword.control.sigma16'
   },
   {
