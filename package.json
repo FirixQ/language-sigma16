@@ -8,10 +8,10 @@
   "dependencies": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/FirixQ/language-sigma16"
+    "url": "https://github.com/MHCooke/language-sigma16"
   },
   "bugs": {
-    "url": "https://github.com/FirixQ/language-sigma16/issues"
+    "url": "https://github.com/MHCooke/language-sigma16/issues"
   },
   "license": "MIT"
 }
